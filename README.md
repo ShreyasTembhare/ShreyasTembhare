@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey there, I'm Shreyas! 👋
 
-<!--
-**ShreyasTembhare/ShreyasTembhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Currently pursuing a Master's in Data Science at [Rochester Institute of Technology](https://www.rit.edu), expected graduation May 2026.
+- 💡 Passionate about Machine Learning, AI, and Data Science, with experience in NLP, Time Series Forecasting, and Deep Learning.
+- 🌱 Currently exploring advanced model optimization techniques and LLM alignment strategies.
+- ⚡ Fun fact: I love Reading and Cooking.
+- 📫 Reach out to me at: [sst9704@g.rit.edu](mailto:sst9704@g.rit.edu)
 
-Here are some ideas to get you started:
+## Social Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/shreyas-tembhare/)) [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium)](https://medium.com/turing-around) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sst9704@g.rit.edu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Programming & Databases
+- Python
+- Java
+- SQL
+
+### Libraries & Tools
+- Scikit-learn, TensorFlow, PyTorch
+- Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- PdfPlumber, PyPDF2, LightKurve, Streamlit
+- AWS SageMaker, Tableau, Power BI, Apache Spark, Git
+
+### Machine Learning & AI
+- Deep Learning (CNN, RNN, LSTM)
+- NLP (TF-IDF, Cosine Similarity, Transformers)
+- Time Series Forecasting
+- Statistical Modeling, Hypothesis Testing
+- Model Optimization, Cross-Validation
+
+### Data Analysis
+- Data Wrangling
+- Feature Engineering
+- Missing Data Handling
+- Outlier Detection
+
+## Certifications
+- [AWS Academy Graduate - AWS Academy Cloud Foundations Badge](https://github.com/ShreyasTembhare/Certificates/blob/main/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20230207-44-15nv4cx.pdf)
+- [AWS ML Certification](https://github.com/ShreyasTembhare/Certificates/blob/main/AWS_MLj.pdf)
+- [Walmart USA Completion Certificate](http://github.com/ShreyasTembhare/Certificates/blob/main/oX6f9BbCL9kJDJzfg_Walmart%20USA_Lyxdd7MGgCdA6vB5x_1675422749467_completion_certificate.pdf)
+- [TATA Completion Certificate](https://github.com/ShreyasTembhare/Certificates/blob/main/TATA_completion_certificate.pdf)
