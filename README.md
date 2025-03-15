@@ -1,6 +1,6 @@
 # Hey there, I'm Shreyas! 👋
 
-> "Striving for excellence one commit at a time."  
+> "Coding is my passion, and every commit is a step towards growth."
 
 ## About Me
 - 🎓 Currently pursuing a Master's in Data Science at [Rochester Institute of Technology](https://www.rit.edu), expected graduation May 2026.
@@ -17,9 +17,9 @@
 ## Skills
 
 ### Programming & Databases
-- **Python**
-- **Java**
-- **SQL**
+- Python
+- Java
+- SQL
 
 ### Libraries & Tools
 - Scikit-learn, TensorFlow, PyTorch
@@ -46,17 +46,3 @@
 - [AWS ML Certification](https://github.com/ShreyasTembhare/Certificates/blob/main/AWS_MLj.pdf)
 - [Walmart USA Completion Certificate](http://github.com/ShreyasTembhare/Certificates/blob/main/oX6f9BbCL9kJDJzfg_Walmart%20USA_Lyxdd7MGgCdA6vB5x_1675422749467_completion_certificate.pdf)
 - [TATA Completion Certificate](https://github.com/ShreyasTembhare/Certificates/blob/main/TATA_completion_certificate.pdf)
-
----
-
-## 🔥 GitHub Stats
-
-[![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyasTembhare&show_icons=true&theme=radical)](https://github.com/ShreyasTembhare)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasTembhare&layout=compact&theme=radical)](https://github.com/ShreyasTembhare)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShreyasTembhare&theme=radical)](https://github.com/ShreyasTembhare)
