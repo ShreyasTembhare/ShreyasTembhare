@@ -9,7 +9,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shreyas-tembhare/) [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium)](https://medium.com/turing-around) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sst9704@g.rit.edu)
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,java,postgresql,scikitlearn,pandas,numpy,matplotlib,jupyter,vscode,streamlit,spark,tableau,powerbi,aws,docker,github&perline=8&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?  
+  i=python,java,postgresql,sklearn,pandas,numpy,matplotlib,jupyter,  
+    vscode,streamlit,spark,tableau,powerbi,aws,docker,github  
+  &perline=8  
+  &theme=light  
+)](https://skillicons.dev)
 
 ## 🔗 Portfolio Links
 - 📊 [Kaggle](https://www.kaggle.com/shreyastembhare)
