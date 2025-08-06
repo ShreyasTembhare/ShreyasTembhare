@@ -15,7 +15,24 @@
 ---
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,java,sql,tensorflow,pytorch,scikit,aws,git,docker,tableau,powerbi,spark&perline=12)](https://skillicons.dev)
+
+### Data & ML Libraries
+[![My Skills](https://skillicons.dev/icons?i=python,java,sql,scikit,pandas,numpy,matplotlib,seaborn,plotly&perline=9)](https://skillicons.dev)
+
+### Notebooks & IDEs
+[![My Skills](https://skillicons.dev/icons?i=jupyter,vscode&perline=2)](https://skillicons.dev)
+
+### Web & Dashboards
+[![My Skills](https://skillicons.dev/icons?i=streamlit&perline=1)](https://skillicons.dev)
+
+### Big Data & Visualization
+[![My Skills](https://skillicons.dev/icons?i=spark,tableau,powerbi&perline=3)](https://skillicons.dev)
+
+### Cloud & MLOps
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,githubactions&perline=3)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=postgresql&perline=1)](https://skillicons.dev)
 
 ---
 
