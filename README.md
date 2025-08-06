@@ -46,3 +46,23 @@
 - [AWS ML Certification](https://github.com/ShreyasTembhare/Certificates/blob/main/AWS_MLj.pdf)
 - [Walmart USA Completion Certificate](http://github.com/ShreyasTembhare/Certificates/blob/main/oX6f9BbCL9kJDJzfg_Walmart%20USA_Lyxdd7MGgCdA6vB5x_1675422749467_completion_certificate.pdf)
 - [TATA Completion Certificate](https://github.com/ShreyasTembhare/Certificates/blob/main/TATA_completion_certificate.pdf)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyasTembhare&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasTembhare&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShreyasTembhare&theme=radical&hide_border=true)
+
+---
+
+## 🔗 Portfolio Links
+- 📊 **Kaggle Profile**: [Shreyas Tembhare](https://www.kaggle.com/shreyastembhare)
+- 📄 **Research Papers**: [Google Scholar](https://scholar.google.com/citations?user=hJtDkRcAAAAJ&hl=en)
+- 🌐 **Personal Website**: [shreyastembhare.netlify.app](https://shreyastembhare.netlify.app/)
+
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=ShreyasTembhare&color=brightgreen)
