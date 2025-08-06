@@ -10,23 +10,23 @@
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" />
+<img src="https://pandas.pydata.org/static/img/pandas_mark_white_bg.svg" width="40" height="40" />
+<img src="https://numpy.org/images/logo.svg" width="40" height="40" />
+<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width="40" height="40" />
+<img src="https://jupyter.org/assets/main-logo.svg" width="40" height="40" />
+<img src="https://code.visualstudio.com/assets/images/code-stable.png" width="40" height="40" />
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" height="40" />
+<img src="https://spark.apache.org/images/spark-logo-trademark.png" width="40" height="40" />
+<img src="https://www.tableau.com/sites/default/files/2020-05/tableau-software-logo.png" width="40" height="40" />
+<img src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40" />
+<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="40" height="40" />
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" />
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="40" height="40" />
 
 ## 🔗 Portfolio Links
 - 📊 [Kaggle](https://www.kaggle.com/shreyastembhare)
