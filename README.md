@@ -14,48 +14,8 @@
 
 ---
 
-## Skills
-
-### Programming & Databases
-- Python
-- Java
-- SQL
-
-### Libraries & Tools
-- Scikit-learn, TensorFlow, PyTorch
-- Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- PdfPlumber, PyPDF2, LightKurve, Streamlit
-- AWS SageMaker, Tableau, Power BI, Apache Spark, Git
-
-### Machine Learning & AI
-- Deep Learning (CNN, RNN, LSTM)
-- NLP (TF-IDF, Cosine Similarity, Transformers)
-- Time Series Forecasting
-- Statistical Modeling & Hypothesis Testing
-- Model Optimization & Cross-Validation
-
-### Data Analysis
-- Data Wrangling & Feature Engineering
-- Missing Data Handling
-- Outlier Detection
-
----
-
-## Certifications
-- [AWS Academy Graduate - AWS Academy Cloud Foundations Badge](https://github.com/ShreyasTembhare/Certificates/blob/main/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20230207-44-15nv4cx.pdf)
-- [AWS ML Certification](https://github.com/ShreyasTembhare/Certificates/blob/main/AWS_MLj.pdf)
-- [Walmart USA Completion Certificate](http://github.com/ShreyasTembhare/Certificates/blob/main/oX6f9BbCL9kJDJzfg_Walmart%20USA_Lyxdd7MGgCdA6vB5x_1675422749467_completion_certificate.pdf)
-- [TATA Completion Certificate](https://github.com/ShreyasTembhare/Certificates/blob/main/TATA_completion_certificate.pdf)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyasTembhare&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasTembhare&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShreyasTembhare&theme=radical&hide_border=true)
+## 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,java,sql,tensorflow,pytorch,scikit,aws,git,docker,tableau,powerbi,spark&perline=12)](https://skillicons.dev)
 
 ---
 
