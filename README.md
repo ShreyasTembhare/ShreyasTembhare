@@ -10,23 +10,7 @@
 
 ## 💻 Tech Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" />
-<img src="https://pandas.pydata.org/static/img/pandas_mark_white_bg.svg" width="40" height="40" />
-<img src="https://numpy.org/images/logo.svg" width="40" height="40" />
-<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width="40" height="40" />
-<img src="https://jupyter.org/assets/main-logo.svg" width="40" height="40" />
-<img src="https://code.visualstudio.com/assets/images/code-stable.png" width="40" height="40" />
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" height="40" />
-<img src="https://spark.apache.org/images/spark-logo-trademark.png" width="40" height="40" />
-<img src="https://www.tableau.com/sites/default/files/2020-05/tableau-software-logo.png" width="40" height="40" />
-<img src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" width="40" height="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40" />
-<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="40" height="40" />
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" />
-<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="40" height="40" />
+[![My Skills](https://skillicons.dev/icons?i=python,java,sql,scikit,pandas,numpy,matplotlib,jupyter,vscode,streamlit,spark,tableau,powerbi,aws,docker,github,postgresql&perline=17)](https://skillicons.dev)
 
 ## 🔗 Portfolio Links
 - 📊 [Kaggle](https://www.kaggle.com/shreyastembhare)
