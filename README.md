@@ -15,7 +15,7 @@
 ---
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,java,sql,scikit,pandas,numpy,matplotlib,seaborn,plotly,jupyter,vscode,streamlit,spark,tableau,powerbi,aws,docker,githubactions,postgresql&perline=19)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,sql,scikit,pandas,numpy,matplotlib,seaborn,plotly,jupyter,vscode,streamlit,spark,tableau,powerbi,aws,docker,github,postgresql&perline=18)](https://skillicons.dev)
 
 ---
 
