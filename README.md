@@ -1,36 +1,47 @@
-# Hey there, I'm Shreyas! 👋
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Shreyas Tembhare</h1>
 
-## About Me
-- 🎓 Master's in Data Science at [RIT](https://www.rit.edu) (Expected May 2026)
-- 💡 ML/AI enthusiast with expertise in NLP, Time Series, and Deep Learning
-- 📫 [sst9704@g.rit.edu](mailto:sst9704@g.rit.edu)
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-## Social Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shreyas-tembhare/) [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium)](https://medium.com/turing-around) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sst9704@g.rit.edu)
+## 📌 About Me
+- 💡 AI R&D Engineer at Nokia, working on LLM agents, retrieval, and production ML.
+- 🎓 M.S. in Data Science at [Rochester Institute of Technology](https://www.rit.edu) (December 2026). B.E. in Artificial Intelligence and Machine Learning from Savitribai Phule Pune University.
+- 🛠 Recent work includes an agentic copilot, RAG on PostgreSQL, real-time anomaly scoring, and computer vision pipelines.
 
-## 💻 Tech Stack
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyasTembhare&show_icons=true&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Shreyas Tembhare's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ShreyasTembhare&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Shreyas Tembhare's GitHub Streak" width="49%" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasTembhare&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShreyasTembhare&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shreyas Tembhare's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyasTembhare&theme=nightowl&radius=10" alt="Shreyas Tembhare's Activity Graph" />
+</p>
 
-## 🔗 Portfolio Links
-- 📊 [Kaggle](https://www.kaggle.com/shreyastembhare)
-- 📄 [Google Scholar](https://scholar.google.com/citations?user=hJtDkRcAAAAJ&hl=en)
-- 🌐 [Website](https://shreyastembhare.netlify.app/)
+## 🛠️ Languages & Tools
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShreyasTembhare&color=brightgreen)
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.simpleicons.org/rust/DEA584" alt="Rust" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## AI & ML
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Backend & Data
+<p align="center"><img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="Apache Spark" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Cloud & Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="48" height="48" style="margin: 4px;" /></p>
+
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/shreyas-tembhare/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:sst9704@g.rit.edu" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Email" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://medium.com/turing-around" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Medium.svg" alt="Medium" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://shreyastembhare.netlify.app/" target="_blank"><img src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.kaggle.com/shreyastembhare" target="_blank"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" alt="Kaggle" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://scholar.google.com/citations?user=hJtDkRcAAAAJ&hl=en" target="_blank"><img src="https://cdn.simpleicons.org/googlescholar/4285F4" alt="Google Scholar" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="divider" width="100%" />
+</div>
+
+<p align="center"><sub>Layout adapted from the <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a></sub></p>
